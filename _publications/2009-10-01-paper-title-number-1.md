@@ -1,5 +1,5 @@
 ---
-title: "## WHT服务器"
+title: "## 服务器规则"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
