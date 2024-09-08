@@ -1,7 +1,33 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "玩法简介"
+excerpt: "site99生存指南"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+角色玩法
+
+## D级人员
+
+基金会做实验的小白鼠平常在生活区收集可以利用的资源制作武器逃离这里
+
+##研究人员
+
+基金会的研究人员抓D级人员做异常实验
+
+## 安保人员
+
+基金会轻收的安保人员平常的工作是巡逻轻收镇压D级暴乱
+
+## 快速反应部门
+
+基金会的快速反应部门主要的任务是巡逻重收容和办公区同时镇压出逃的SCP和D级人员
+
+## UIU
+
+联邦调查局所属特异事故处主要任务是偷取基金会的资料由特工召唤
+
+## GOC
+
+全球超自然联盟的主要目标是开启核弹使收容失效无效化
+
+**注意:游玩时请注意遵守游戏规则管理员处理事情时不会开小灶**
