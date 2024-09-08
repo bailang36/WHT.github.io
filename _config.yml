@@ -22,7 +22,7 @@ author:
   # Biographic information
   avatar           : "profile.png" #头像
   name             : "WHT服务器"
-  pronouns         : "he" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   uri              : # URL
   email            : "联系我们:2788755826@qq.com" 
