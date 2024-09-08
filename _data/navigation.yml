@@ -5,10 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
+  - title: "服务器规则"
     url: /talks/    
 
   - title: "Teaching"
