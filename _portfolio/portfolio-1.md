@@ -1,7 +1,6 @@
 ---
 title: "玩法简介"
 excerpt: "site99生存指南"
-collection: portfolio
 ---
 
 角色玩法
