@@ -1,7 +1,6 @@
 ---
 title: "角色简介"
 excerpt: "site99角色生存指南"
-collection: portfolio
 ---
 
 
